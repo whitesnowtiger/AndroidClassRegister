@@ -4,7 +4,7 @@ This is a one-person project I have created for an elementary school. The projec
 
 ![](./WPLS1.png)
 
-![](./WPLS2.png)
+![](./WPLS2_s.png)
 
 ![](./WPLS3.png)
 
