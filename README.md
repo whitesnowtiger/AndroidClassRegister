@@ -4,15 +4,9 @@ This is a one-person project I have created for an elementary school. The projec
 
 ![](./pic1.png)     ![](./pic2.png)
 
-![](./pic3.png)
+![](./pic3.png)     ![](./pic4.png)
 
-![](./pic4.png)
+![](./pic5.png)     ![](./pic6.png)
 
-![](./pic5.png)
-
-![](./pic6.png)
-
-![](./pic7.png)
-
-![](./pic8.png)
+![](./pic7.png)     ![](./pic8.png)
 
